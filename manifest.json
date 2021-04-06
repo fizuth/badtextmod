@@ -1,0 +1,9 @@
+{
+    "name": "BadText",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Bad text mod, created for a modpack.",
+    "dependencies": [
+        "Harb-AssetPlusRequester-1.0.0"
+    ]
+}

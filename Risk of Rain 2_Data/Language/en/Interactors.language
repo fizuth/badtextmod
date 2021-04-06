@@ -1,0 +1,259 @@
+{
+	strings:
+	{
+	//[INTERACTABLES],
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "lets fuckin go",
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "crack open a cold one",
+	"TELEPORTER_NAME": "leave machine",
+	"TELEPORTER_BEGIN_CONTEXT": "get this party started",
+	"TELEPORTER_END_CONTEXT": "leave",
+
+	"BARREL1_NAME": "money",
+	"BARREL1_CONTEXT": "take money",
+
+	"DUMMYINTERACTION_NAME": "???",
+	"DUMMYINTERACTION_CONTEXT": "???",
+	
+	"LOCKBOX_NAME": "logbog",
+	"LOCKBOX_CONTEXT": "open logbog",
+	
+	"EQUIPMENTBARREL_NAME": "quipment barrel",
+	"EQUIPMENTBARREL_CONTEXT": "open quipment barrel",
+
+	//[CHESTS],
+	"OLDCHEST_NAME": "Old Chest",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "box",
+	"CHEST1_CONTEXT": "whats in it?",
+
+	"CHEST1_STEALTHED_NAME": "sneaky box",
+	"CHEST1_STEALTHED_CONTEXT": "dude fuckin nice",
+
+	"CHEST2_NAME": "big box",
+	"CHEST2_CONTEXT": "Open large chest",
+
+	"GOLDCHEST_NAME": "red item box",
+	"GOLDCHEST_CONTEXT": "open da red box",
+
+	"TIMEDCHEST_NAME": "da ball shooter box",
+	"TIMEDCHEST_CONTEXT": "right on time",
+
+	"RADIOTOWER_NAME" : "the lore tower",
+	"RADIOTOWER_CONTEXT" : "Download environment data",
+
+	"MULTISHOP_TERMINAL_NAME": "da choose pod",
+	"MULTISHOP_TERMINAL_CONTEXT": "choose",
+
+	"FAN_NAME": "boosta",
+	"FAN_CONTEXT": "start da boosta",
+
+	"DUPLICATOR_NAME": "da builder of",
+	"DUPLICATOR_CONTEXT": "use da builder",
+
+	"DUPLICATOR_MILITARY_NAME": "real good builder of",
+	"DUPLICATOR_MILITARY_CONTEXT": "use da real good builder",
+	"DUPLICATOR_WILD_NAME": "weird builder of",
+	"DUPLICATOR_WILD_CONTEXT": "use da weird builder",
+
+	"CASINOCHEST_NAME": "da magic stopper",
+	"CASINOCHEST_CONTEXT": "stop it to get what you want",
+
+	//[LUNAR STUFF],
+	"LUNAR_CHEST_NAME" : "fortnite pinata",
+	"LUNAR_CHEST_CONTEXT" : "spend vbuck",
+
+	"LUNAR_TERMINAL_NAME" : "harsh bud",
+	"LUNAR_TERMINAL_CONTEXT" : "spend vbucks",
+
+	"LUNAR_REROLL_NAME" : "new stuff please",
+	"LUNAR_REROLL_CONTEXT" : "i want different things",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "shopgrade",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "vbucks to donate fortnite",
+
+	"BAZAAR_BLUEPRINT_NAME" : "hmmmm",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "permanently unlock",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "Slab",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Permanently upgrade Drone Shop",
+
+	"BAZAAR_CAULDRON_NAME" : "toilet wine",
+	"BAZAAR_CAULDRON_CONTEXT" : "brew some",
+
+	"NEWT_STATUE_NAME" : "froge",
+	"NEWT_STATUE_CONTEXT" : "spawn the blorb",
+
+	"MSOBELISK_NAME" : "group photo op",
+	"MSOBELISK_CONTEXT" : "well done!",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "see you next time",
+
+	"CATEGORYCHEST_HEALING_NAME": "healy box",
+	"CATEGORYCHEST_HEALING_CONTEXT": "open healy box",
+
+	"CATEGORYCHEST_DAMAGE_NAME": "hurty box",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "open hurty box",
+
+	"CATEGORYCHEST_UTILITY_NAME": "weird box",
+	"CATEGORYCHEST_UTILITY_CONTEXT": "open weird box",
+
+	//[SHRINES],
+	"SHRINE_HEALING_NAME": "happy healy circle",
+	"SHRINE_HEALING_CONTEXT": "buy a happy healy circle",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>they don't know the tree is giving you the succ</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is getting the succ</color>",
+	
+	"SHRINE_BLOOD_NAME": "CBT",
+	"SHRINE_BLOOD_CONTEXT": "partake",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>you crush your cock with a rock for {1} gold</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} crushes their cock with a rock and gains {1} gold</color>",
+
+	"SHRINE_CHANCE_NAME": "e-girl",
+	"SHRINE_CHANCE_CONTEXT": "donate to the stream",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>you donate to the stream and she says your name</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} donated to the stream and she said their name</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>you donate, but she doesnt say your name :(</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} donated, but she didnt say their name</color>",
+
+	"SHRINE_BOSS_NAME": "do it loser",
+	"SHRINE_BOSS_CONTEXT": "hit me if you arent a coward",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>you are not a coward</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} is not a coward</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>WAHOO LETS GO</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>cash prizes</style>",
+
+	"SHRINE_RESTACK_NAME": "funny circle button",
+	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>you are now.... funny</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... funny</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "frend dimension",
+	"SHRINE_GOLDSHORES_CONTEXT": "lots of money for a big frend chance",
+
+	"SHRINE_COMBAT_NAME": "friend place",
+	"SHRINE_COMBAT_CONTEXT": "bring in some friends :)",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>you are happy because the {1}s are here</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} is happy because the {1}s are here</color>",
+
+	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
+	"SHRINE_CLEANSE_NAME": "hygiene toilet",
+	"SHRINE_CLEANSE_CONTEXT": "flush",
+	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>you flushed {1}</color>",
+	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has flushed {1}</color>",
+
+	"GOLDTOTEM_NAME": "gold bacon",
+	"GOLDTOTEM_CONTEXT": "fix the bacon",
+
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>oh no, {1}s are here now...!</style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>oh no, now they have {1}!</style>",
+	"ARENA_END" : "<style=cWorldEvent>the ball is done</style>",
+	"NULL_WARD_NAME" : "da ball",
+	"NULL_WARD_CONTEXT" : "start da ball",
+	//MISC
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"MOON_BATTERY_SOUL_NAME" : "rock dat gets smaller",
+	"MOON_BATTERY_SOUL_CONTEXT" : "lets start",
+
+	"MOON_BATTERY_BLOOD_NAME" : "vampire rock",
+	"MOON_BATTERY_BLOOD_CONTEXT" : "its gonna succ ya",
+
+	"MOON_BATTERY_DESIGN_NAME" : "yeet rock",
+	"MOON_BATTERY_DESIGN_CONTEXT" : "jumprope fun corner",
+
+	"MOON_BATTERY_MASS_NAME" : "rock of da boys",
+	"MOON_BATTERY_MASS_CONTEXT" : "so many boys",
+
+	"LOCKEDMAGE_NAME" : "playable frend",
+	"LOCKEDMAGE_CONTEXT" : "unlock da frend",
+		
+	"LOCKEDTREEBOT_NAME" : "frend",
+	"LOCKEDTREEBOT_CONTEXT" : "he seems polite",
+
+	"SCAVBACKPACK_NAME" : "da sack",
+	"SCAVBACKPACK_CONTEXT" : "open up da sack :))",
+	//[DRONES],
+	"DRONE_GUNNER_INTERACTABLE_NAME": "broken gun frend",
+	"DRONE_GUNNER_CONTEXT": "fix",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "broken big frend",
+	"DRONE_MEGA_CONTEXT": "fix",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "broken healy frend",
+	"DRONE_HEALING_CONTEXT": "fix",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "broken missississile frend",
+	"DRONE_MISSILE_CONTEXT": "fix",
+
+	"EQUIPMENTDRONE_INTERACTABLE_NAME" : "broken item frend",
+	"EQUIPMENTDRONE_CONTEXT" : "fix",
+
+	"FLAMEDRONE_INTERACTABLE_NAME" : "broken spicy frend",
+	"FLAMEDRONE_CONTEXT" : "fix",
+
+	"EMERGENCYDRONE_INTERACTABLE_NAME" : "broken big healy frend",
+	"EMERGENCYDRONE_CONTEXT" : "fix",
+
+	//[TURRETS],
+	"TURRET1_INTERACTABLE_NAME": "broken gun turrent",
+	"TURRET1_CONTEXT": "fix",
+
+	"PORTAL_SHOP_NAME" : "blortal",
+	"PORTAL_SHOP_CONTEXT": "go to lizzert shop",
+	"PORTAL_GOLDSHORES_NAME" : "glortal",
+	"PORTAL_GOLDSHORES_CONTEXT": "try to convince your frend",
+	"PORTAL_MYSTERYSPACE_NAME" : "end portal",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "were gonna get elytra",
+	"PORTAL_ARENA_NAME" : "the fungeon",
+	"PORTAL_ARENA_CONTEXT" : "go to the fungeon",
+	"PORTAL_ARTIFACTWORLD_NAME" : "arbifortal",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "enter the arbifortal",
+	"PORTAL_GENERIC_CONTEXT": "enter porbal",
+	"ZIPLINE_ENTER_CONTEXT" : "zpline",
+	"ZIPLINE_EXIT_CONTEXT" : "get off",
+
+	"PICKUP_LUNAR_COIN": "v-buck",
+	"LUNAR_COIN_PICKUP_CONTEXT": "get a vbuck",
+	
+	"COST_NONE_FORMAT": "",
+	"COST_MONEY_FORMAT": "${0}",
+	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+	"COST_ITEM_FORMAT": "{0} Item(s)",
+	"COST_LUNAR_FORMAT": "{0} Lunar",
+	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
+	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
+	"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted Key",
+	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Activate Unknown Artifact...?",
+
+	"PORTAL_DIALER_NAME" : "Compound Generator",
+	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "gamer laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "enter fortnite password",
+
+	"LUNAR_TELEPORTER_NAME": "da moon portal",
+	"LUNAR_TELEPORTER_SHIFT" : "change ya mind",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "go to the place",
+	"LUNAR_TELEPORTER_END_CONTEXT": "lets do it",
+
+	"SCRAPPER_NAME" : "scrabber",
+	"SCRAPPER_CONTEXT" : "turn anything into people",
+	"SCRAPPER_POPUP_TEXT" : "<b>Scrapper V1-4</b>\n<i><style=cSub><size=75%>Turn anything into recyclable scrap!</size></style></i>",
+
+	"DROPSHIP_NAME" : "success!",
+	"DROPSHIP_CONTEXT" : "you did it",
+
+	"MOON_ELEVATOR_NAME" : "Platform",
+	"MOON_ELEVATOR_CONTEXT" : "Activate platform",
+	}
+}
