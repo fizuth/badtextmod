@@ -26,6 +26,9 @@
 		"TITLE_EXTRAGAMEMODE_DESC" : "Play alternate Risk of Rain 2 gamemodes, like Prismatic Trials and Eclipse.",
 		"TITLE_ECLIPSE" : "pain mode",
 		"TITLE_ECLIPSE_DESC" : "Play an advanced gamemode that adds stacking challenge modifiers each time you beat the game.",
+		"TITLE_INFINITETOWER" : "infinite fungeon",
+		"TITLE_INFINITETOWER_DESC" : "Play a wave-based arena mode that takes place inside of a Void \�simulation\�",
+
 
 		"TITLE_MULTIPLAYER_QUICKPLAY_START": "Enter QuickPlay",
 		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Leave QuickPlay",
@@ -37,7 +40,7 @@
 		"TITLE_MULTIPLAYER_HOST_GAME": "Create Multiplayer Game",
 		"MORE_MUSIC" : "MUSIC",
 		"MORE_MUSIC_DESC" : "Hello everyone! Chris here, the composer of the game's soundtrack! Some of you might know me from the original Risk of Rain. The rest of you I'd love to get to know during this development period and beyond.\r\n\r\nWhile there's still more music to be written, I do hope you like what you hear so far! If you'd like to stay in the loop you can follow me on Twitter or Instagram (both @AstronautDown) and check out our Discord server!",
-		"MORE_MUSIC_BUTTON" : "TAKE ME!",
+		"MORE_MUSIC_BUTTON" : "FUCK ME!",
 		"MORE_CONTACT" : "CONTACT",
 		"MORE_CONTACT_DESC" : "Follow us on social media for the latest news, updates, and more about Risk of Rain 2!",
 
@@ -92,7 +95,7 @@
 		
 		"UNIDENTIFIED" : "???",
 		"UNIDENTIFIED_DESCRIPTION" : "You have not met the prerequisites for this Challenge yet.",
-		"UNIDENTIFIED_KILLER_NAME" : "The Planet",
+		"UNIDENTIFIED_KILLER_NAME" : "God",
 		"DESCRIPTION_PREFIX_FORMAT" : "Description:\n{0}",
 		"NOTES_PREFIX_FORMAT" : "Notes:\n<style=cSub><size=80%>{0}</size></style>",
 
@@ -177,12 +180,13 @@
 		"MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "The game failed to load a necessary library due to an issue with your installation of Microsoft Visual C++ 2015 Redistributable (x64). The button below will open your browser to the Microsoft download page for this installer. Please note that if the installation process fails because the redistributable is already installed, you <i>must uninstall it</i> and try again. This will also occur if you have newer versions of the redistributable, like 2017 or 2019, which will prevent the 2015 version from being installed after them.\n\nThis program will close after this message is dismissed.",
 		"MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Get the Redistributable",
 
-		"ARENA_HUD_MONSTERS_LABEL": "Monsters",
-		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Monsters' Items",
+		"ARENA_HUD_MONSTERS_LABEL": "Dudes",
+		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Their Stuff",
 		
-		"IMMUNE_TO_DAMAGE_HITMARKER": "IMMUNE",
-		"BLOCKED_DAMAGE_HITMARKER": "BLOCKED!",
-		"EXTRALIFE_REVIVED_EFFECT": "REVIVED!",
+		"IMMUNE_TO_DAMAGE_HITMARKER": "HEH",
+		"BLOCKED_DAMAGE_HITMARKER": "NOPE!",
+		"EXTRALIFE_REVIVED_EFFECT": "I'M BACK!",
+		"EXTRALIFEVOID_REVIVED_EFFECT": "UH... MEOW?",
 		
 		"SCOREBOARD_HEADER_PLAYERS": "Players",
 		"SCOREBOARD_HEADER_ITEMS": "Items",

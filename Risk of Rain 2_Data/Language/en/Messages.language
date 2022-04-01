@@ -173,5 +173,20 @@
 
 		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5_2P": "You lost a fight with gravity.",
 		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5": "{0} lost a fight with gravity.",
+
+		"MUSHROOM_VOID_UPGRADE_2P" : "<style=cEvent>Heh, so uh, we turned your {1}{2}</color> into {3}{4}</color>",
+		"MUSHROOM_VOID_UPGRADE" : "<style=cEvent>Oops! We turned {0}'s {1}{2}</color> into {3}{4}</color>",
+
+
+		"PORTAL_VOID_WILL_OPEN":"<style=cWorldEvent>porb..</styles>",
+		"PORTAL_VOID_OPEN" : "<style=cWorldEvent>...p-portal?</style>",
+
+		"PORTAL_DEEPVOID_WILL_OPEN":"<style=cWorldEvent>evil porb</style>",
+		"PORTAL_DEEPVOID_OPEN" : "<style=cWorldEvent>you can smell the evil...</style>",
+
+		"PET_FROG" : "{0} pet frogge.",
+		"PET_FROG_2P" : "mmm yes pet frogge very good.",
+
+		"VOIDCAMP_COMPLETE" : "<style=cWorldEvent>BRAZIL IS GONE!</style>",
 	}
 }

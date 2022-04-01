@@ -1,16 +1,16 @@
 {
 	"strings": {
-		"CUTSCENE_INTRO_FLAVOR_1": "UES 'Peeb Eebis' ",
-		"CUTSCENE_INTRO_FLAVOR_2": "Last known coordinates of the UES 'Peeb Eebis'",
-		"CUTSCENE_INTRO_SUBTITLE_1": "We're here, Captain. The home of Goku...",
-		"CUTSCENE_INTRO_SUBTITLE_2": "This planet... it isn't on any star maps we know. This area isn't even on route... ",
-		"CUTSCENE_INTRO_SUBTITLE_3": "Any visuals on the Peeb Eebis?",
-		"CUTSCENE_INTRO_SUBTITLE_4": "No sir... just debris.",
-		"CUTSCENE_INTRO_SUBTITLE_5": "Any signs of the buvvins?",
-		"CUTSCENE_INTRO_SUBTITLE_6": "....No sir. Bioscanner is dark.",
-		"CUTSCENE_INTRO_SUBTITLE_7": "Sir... the distress beacon. It mentioned... it mentioned a lot.",
-		"CUTSCENE_INTRO_SUBTITLE_8": "Monsters, and fighting, and...",
-		"CUTSCENE_INTRO_SUBTITLE_9": "...Sir... do you think we're ready?",
+		"CUTSCENE_INTRO_FLAVOR_1": "ahh, the 'peeb eebis'",
+		"CUTSCENE_INTRO_FLAVOR_2": "at the last known location of goku",
+		"CUTSCENE_INTRO_SUBTITLE_1": "captain, look... we've reached orbulon six",
+		"CUTSCENE_INTRO_SUBTITLE_2": "it's so round... and so- so orbical... sir, it is beautiful ",
+		"CUTSCENE_INTRO_SUBTITLE_3": "can you see goku down there?",
+		"CUTSCENE_INTRO_SUBTITLE_4": "No sir... just orbs.",
+		"CUTSCENE_INTRO_SUBTITLE_5": "are you sure? i really wanna meet goku.",
+		"CUTSCENE_INTRO_SUBTITLE_6": "yeah there's... there's like a lot of orbs",
+		"CUTSCENE_INTRO_SUBTITLE_7": "like... so many orbs...",
+		"CUTSCENE_INTRO_SUBTITLE_8": "...don't think i can coun't them, that's how many orbs there are...",
+		"CUTSCENE_INTRO_SUBTITLE_9": "...sir...?",
 		"CUTSCENE_INTRO_SUBTITLE_10": "sus",
 
 		"GENERIC_OUTRO_FLAVOR": "..and so it left, hopeful for meaning.",
@@ -51,5 +51,11 @@
 
 		"HERETIC_OUTRO_FLAVOR": "..and so they left, bitterly avenged and deeply lost.",
 		"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so they vanished, two stories ending as one.",
+		
+		"RAILGUNNER_OUTRO_FLAVOR": "..and so she left, ready to take her shot.",
+		"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, out of sight.",
+
+		"VOIDSURVIVOR_OUTRO_FLAVOR": "Congratulations on completing Risk of Rain 2! John Voidman is proud of you.",
+		"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "You were so close! John Voidman is ready to give it another go if you are!",
 	}
 }

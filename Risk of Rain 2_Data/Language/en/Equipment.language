@@ -92,6 +92,14 @@
     "EQUIPMENT_AFFIXLUNAR_PICKUP": "now you are racist",
     "EQUIPMENT_AFFIXLUNAR_DESC": "",
 
+	"EQUIPMENT_AFFIXEARTH_NAME": "helpful aura :)",
+    "EQUIPMENT_AFFIXEARTH_PICKUP": "now you are helpful :)",
+    "EQUIPMENT_AFFIXEARTH_DESC": "",
+
+	"EQUIPMENT_AFFIXSECRETSPEED_NAME": "sonic joke",
+    "EQUIPMENT_AFFIXSECRETSPEED_PICKUP": "you come up with it i'm not doing it",
+    "EQUIPMENT_AFFIXSECRETSPEED_DESC": "",
+
 	"EQUIPMENT_BURNNEARBY_NAME" : "juice that sets you on fire",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "sets you on fire <color=#FF7F7F>including you and allies.</color>\n",
 	"EQUIPMENT_BURNNEARBY_DESC" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies.",
@@ -163,5 +171,46 @@
 	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
 	"EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.",
 	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
+
+	
+	"EQUIPMENT_MOLOTOV_NAME": "Mlotoov (6)",
+	"EQUIPMENT_MOLOTOV_PICKUP": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
+	"EQUIPMENT_MOLOTOV_DESC": "Throw <style=cIsDamage>6</style> molotov cocktails that <style=cIsDamage>ignites</style> enemies for <style=cIsDamage>500% base damage</style>. Each molotov leaves a burning area for <style=cIsDamage>200% damage per second</style>.",
+	"EQUIPMENT_MOLOTOV_LORE": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.",
+
+	"EQUIPMENT_IRRADIATINGLASER_NAME": "minecraft",
+	"EQUIPMENT_IRRADIATINGLASER_PICKUP": "Fire a laser that irradiates the target, causing damage to nearby enemies.",
+	"EQUIPMENT_IRRADIATINGLASER_DESC": "Fire a laser that irradiates targets for <style=cIsUtility>8</style> seconds, causing <style=cIsDamage>3x100%</style> damage to nearby enemies every <style=cIsDamage>8</style> seconds.",
+	"EQUIPMENT_IRRADIATINGLASER_LORE": "Used to excavate the planet of precious minerals, these devices were discontinued when it was discovered that they have a 95% chance to cause radiating poisoning on a full charge.",
+
+	"EQUIPMENT_LUNARPORTALONUSE_NAME" : "Elegy of Extinction",
+	"EQUIPMENT_LUNARPORTALONUSE_PICKUP" : "Prepare a <style=cIsLunar>Lunar Portal</style> on use.",
+	"EQUIPMENT_LUNARPORTALONUSE_DESC" : "Prepare a <style=cIsLunar>Lunar Portal</style> to be created at the teleportation site, rendering the stone idol useless.",
+	"EQUIPMENT_LUNARPORTALONUSE_LORE" : "This is a placeholder. write something sad here :(",
+
+	"EQUIPMENT_VENDINGMACHINE_NAME" : "mug moment",
+	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Request a healing mug machine.",
+	"EQUIPMENT_VENDINGMACHINE_DESC" : "Request a <style=cIsDamage>Mug Vending Machine</style> from the <style=cIsDamage>UES Safe Travels</style>. Delivery guaranteed in <style=cIsUtility>5 seconds</style>, dealing <style=cIsDamage>2000% damage</style>. <style=cIsHealing>Heal</style> up to 3 targets for <style=cIsHealing>25% of their maximum health</style>.",
+	"EQUIPMENT_VENDINGMACHINE_LORE" : "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>",
+
+	"EQUIPMENT_GUMMYCLONE_NAME" : "Goobo Jr.",
+	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Baby. Baby boy. Precious. Must be protected.",
+	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>700% damage</style> and <style=cIsHealing>700% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
+	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your �science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
+
+	"EQUIPMENT_BOSSHUNTER_NAME" : "shlorp",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "shlorp a boss and take its <style=cIsDamage>cock</style>. only once though",
+	"EQUIPMENT_BOSSHUNTER_DESC" : "<style=cIsDamage>Execute</style> any enemy capable of spawning a <style=cIsDamage>unique reward</style>, and it will drop that <style=cIsDamage>item</style>. Equipment is <style=cIsUtility>consumed</style> on use.",
+	"EQUIPMENT_BOSSHUNTER_LORE" : "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
+
+	"EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "moonbase alpha",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "John Madden! John Madden! John Madden! Football",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_DESC" : "aeiou",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "mamma mia, poppa pia, baby got the dy[aa<999,999>]reeeeeeeeeaaaaaaaaaa",
+
+	"EQUIPMENT_MULTISHOPCARD_NAME": "mom's credit card",
+	"EQUIPMENT_MULTISHOPCARD_PICKUP": "Gain 10% cash back on all purchases. Multishops remain open. <style=cIsDamage>She said no V-Bucks, though...</style>",
+	"EQUIPMENT_MULTISHOPCARD_DESC": "Whenever you make a gold purchase, get <style=cIsUtility>10%</style> of the spent gold back. If the purchase is a <style=cIsUtility>multishop</style> terminal, the other terminals will <style=cIsUtility>remain open</style>.",
+	"EQUIPMENT_MULTISHOPCARD_LORE" : "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
 	}
 }

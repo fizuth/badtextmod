@@ -16,6 +16,9 @@
 	
 	"LOCKBOX_NAME": "logbog",
 	"LOCKBOX_CONTEXT": "open logbog",
+
+	"LOCKBOXVOID_NAME": "bubbl",
+	"LOCKBOXVOID_CONTEXT": "oben bubbl",
 	
 	"EQUIPMENTBARREL_NAME": "quipment barrel",
 	"EQUIPMENTBARREL_CONTEXT": "open quipment barrel",
@@ -140,7 +143,7 @@
 	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
 	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
 
-	"SHRINE_CLEANSE_NAME": "hygiene toilet",
+	"SHRINE_CLEANSE_NAME": "toilet",
 	"SHRINE_CLEANSE_CONTEXT": "flush",
 	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>you flushed {1}</color>",
 	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has flushed {1}</color>",
@@ -150,14 +153,14 @@
 
 	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>oh no, {1}s are here now...!</style>",
 	"ARENA_ADD_ITEM" : "<style=cWorldEvent>oh no, now they have {1}!</style>",
-	"ARENA_END" : "<style=cWorldEvent>the ball is done</style>",
-	"NULL_WARD_NAME" : "da ball",
-	"NULL_WARD_CONTEXT" : "start da ball",
+	"ARENA_END" : "<style=cWorldEvent>the orb is done</style>",
+	"NULL_WARD_NAME" : "orb",
+	"NULL_WARD_CONTEXT" : "start orb",
 	//MISC
 	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
 	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
 
-	"MOON_BATTERY_SOUL_NAME" : "rock dat gets smaller",
+	"MOON_BATTERY_SOUL_NAME" : "rock that gets smaller",
 	"MOON_BATTERY_SOUL_CONTEXT" : "lets start",
 
 	"MOON_BATTERY_BLOOD_NAME" : "vampire rock",
@@ -255,5 +258,55 @@
 
 	"MOON_ELEVATOR_NAME" : "Platform",
 	"MOON_ELEVATOR_CONTEXT" : "Activate platform",
+
+	"VOIDLOCKBOX_NAME": "crusty dusty",
+	"VOIDLOCKBOX_CONTEXT": "wtf asningnob and par ikd doing they dry",
+
+	"VOID_CHEST_NAME" : "pointy chest",
+	"VOID_CHEST_CONTEXT" : "oof ow pointy",
+
+	"VOID_TRIPLE_NAME" : "lootbox",
+	"VOID_TRIPLE_CONTEXT" : "get an overwatch skin",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "choose skin",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "overwatch",
+	"OPTION_PICKUP_HEADER" : "epic victory royale",
+
+	"PICKUP_VOID_COIN": "gold bars",
+	"VOID_COIN_PICKUP_CONTEXT": "Pick up gold bars",
+	"COST_VOIDCOIN_FORMAT":" <sprite name=\"VoidCoin\" tint=1>{0}",
+
+	"PORTAL_VOID_NAME" : "Vortal",
+	"PORTAL_VOID_CONTEXT": "Enter Vortal",
+
+	"VOIDCOINBARREL_NAME": "Stalk",
+	"VOIDCOINBARREL_CONTEXT": "Crack this sucker open!",
+
+	"FROG_NAME": "Frogge",
+	"FROG_CONTEXT": "Pet the frogge",
+
+	"DEEPVOIDBATTERY_NAME" : "reverse pain bubble",
+	"DEEPVOIDBATTERY_CONTEXT" : "please wait until everyone arrives",
+
+	"PORTAL_DEEPVOID_NAME" : "Worse Vortal",
+	"PORTAL_DEEPVOID_CONTEXT": "Enter Worse Vortal",
+
+	"PORTAL_VOIDOUTRO_NAME" : "MacDondals",
+	"PORTAL_VOIDOUTRO_CONTEXT": "Go To MacDonal",
+
+	"VOIDCAMPCENTER_NAME" : "Brazil",
+	"VOIDCAMPCENTER_CONTEXT": "deactivate",
+
+	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"Hey there, John!",
+
+	"CATEGORYCHEST2_HEALING_NAME": "scythe, seed, or rack",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "only those three",
+
+	"CATEGORYCHEST2_DAMAGE_NAME": "big hurty box",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "open big hurty box",
+
+	"CATEGORYCHEST2_UTILITY_NAME": "big weird box",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "open big weird box",
+
 	}
 }
