@@ -1,0 +1,69 @@
+{
+	"strings":
+	{
+		"ARTIFACT_GLASS_NAME": "quake 3 instagib",
+		"ARTIFACT_GLASS_DESCRIPTION" : "allies deal 500% damage, but have 10% health",
+
+		"ARTIFACT_BOMB_NAME" : "everyone splodes",
+		"ARTIFACT_BOMB_DESCRIPTION" : "enemies drop multiple exploding bombs on death",
+
+		"ARTIFACT_ENIGMA_NAME" : "the random button",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "spawn with a random equipment that changes every time it's activated",
+
+		"ARTIFACT_SACRIFICE_NAME" : "grindy mode",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "monsters drop items on death, but chests no longer spawn",
+
+		"ARTIFACT_SPIRIT_NAME" : "hurty zoomies",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "all characters move faster at lower health",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "that guy from soul calibur. blade master i think",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "players always spawn as a random survivor",
+		
+		"ARTIFACT_WEAKASSKNEES_NAME": "WEAK ASS KNEES",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "fall damage is doubled and lethal",
+		
+		"ARTIFACT_WISPONDEATH_NAME": "boy party",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "wisps emerge from defeated monsters",
+		
+		"ARTIFACT_ELITEONLY_NAME": "1337 M0D3",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "enemies can only spawn as elites",
+		
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "spam mode",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "monsters will be of only one type per stage",
+		
+		"ARTIFACT_MIXENEMY_NAME": "random bullshit enemies mode",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "monsters can appear outside their usual environments",
+		
+		"ARTIFACT_SHADOWCLONE_NAME": "evil clone mode",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "your relentless doppelganger will invade every 10 minutes",
+		
+		"ARTIFACT_TEAMDEATH_NAME": "escort mission mode",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "when one player dies, everyone dies. enable only if you want to truly put your teamwork and individual skill to the ultimate test",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0}'s pussy is broken so hard everyone dies</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>ohhhhhh you fucked up</b></style>",
+		
+		"ARTIFACT_SWARMS_NAME": "oh god they're everywhere",
+		"ARTIFACT_SWARMS_DESCRIPTION": "monster spawns are doubled, but monster maximum health is halved",
+		
+		"ARTIFACT_COMMAND_NAME": "overpowered mode",
+		"ARTIFACT_COMMAND_DESCRIPTION": "what'cha want",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "ooh a prize",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "ooh tell me what you want",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "white prizes",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "green prizes",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "super prizes",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "weird prizes",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "odd prizes",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "painful prizes",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "WHAT HOW",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "beeble with tim",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "monsters gain items between stages",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "kill your friends mode",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "friendly fire is enabled for both survivors and monsters alike",
+
+		"ARTIFACT_NONE_NAME" : "oh hell naw spunch bopt",
+		"ARTIFACT_NONE_DESCRIPTION" : "disables the selected artifact"
+	}
+}

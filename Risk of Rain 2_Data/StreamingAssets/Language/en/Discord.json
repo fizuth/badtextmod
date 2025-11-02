@@ -1,0 +1,8 @@
+{
+	"strings": {
+		"DISCORD_RICHPRESENCE_STATE_IN_SINGLEPLAYER_GAME": "jorking it",
+		"DISCORD_RICHPRESENCE_STATE_IN_LOBBY_GAME": "jorking it in a group",
+		"DISCORD_RICHPRESENCE_STATE_IN_SERVER_GAME": "jorking it on a server",
+		"DISCORD_RICHPRESENCE_STATE_IN_LOBBY_MENU": "creating a jorking group"
+	}
+}
